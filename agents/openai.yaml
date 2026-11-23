@@ -1,0 +1,4 @@
+interface:
+  display_name: "Easy Apply AI"
+  short_description: "Research and track tailored job applications"
+  default_prompt: "Use $easy-apply-ai to set up and run my job search."
