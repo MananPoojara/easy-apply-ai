@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="A guided journey toward new opportunities" width="680" />
-
-# Easy Apply AI
+<img src="assets/banner.png" alt="Easy Apply AI — AI-assisted job search" width="680" />
 
 **A job search, guided by you and powered by your AI agent.**
 
