@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="A guided journey toward new opportunities" width="100%" />
+<img src="assets/banner.png" alt="A guided journey toward new opportunities" width="680" />
 
 # Easy Apply AI
 
