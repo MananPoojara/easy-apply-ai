@@ -62,6 +62,16 @@ Use my existing profile and tracker, and ask if a required answer is missing.
 
 The skill can use an available web-research tool such as [Agent Reach](https://github.com/Panniantong/agent-reach), connected email, and a browser for application forms. Availability, account access, verification steps, and permissions depend on your environment. Installing the skill **does not** install those tools, create a scheduler, or send applications by itself.
 
+### Check application replies
+
+Ask the skill to check your connected inbox and match replies to your tracker:
+
+```text
+$easy-apply-ai Check for replies to my applications, summarize deadlines and next steps, and update my tracker. Draft any answer that needs a new fact or commitment; don't send it without asking me.
+```
+
+The skill checks the full email thread, distinguishes acknowledgments from decisions, and flags interviews, assessments, screening questions, rejections, offers, and delivery failures. It highlights deadlines and time zones, keeps assessment credentials out of trackers, and leaves proctored interviews and tests for you to complete. It does not treat an acknowledgment as an interview or send follow-ups just because time has passed.
+
 ## How it works
 
 ```text
