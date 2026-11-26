@@ -3,7 +3,10 @@
 Last updated: [date] · Timezone: [timezone]
 
 ## Goals and constraints
+- Work and problems I want to focus on: [candidate’s stated interests]
+- Industries, missions, or organization types to explore: [candidate’s stated interests]
 - Target roles and seniority: [confirm]
+- Work and roles to avoid: [confirm]
 - Locations and remote / hybrid / onsite preferences: [confirm]
 - Work authorization by country: [confirm when needed]
 - Compensation expectations and currency: [confirm or unknown]
